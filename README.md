@@ -19,3 +19,6 @@ Step 3:
 Step 4:
 
     docker-compose up -d
+
+It may take some time to download the docker image. Once the images are successfully built and the containers are running, you can navigate to 
+http://localhost:8080/swagger-ui/index.html#/ to get to the home page of the site.
