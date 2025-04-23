@@ -10,13 +10,9 @@ Step 1:
 
 Step 2:
 
-    git clone https://github.com/parodiathe/Treading-app
-    
-Step 3:
-
     cd EatFit-Calorie-Tracker
 
-Step 4:
+Step 3:
 
     docker-compose up -d
 
